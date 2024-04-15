@@ -7,7 +7,7 @@
   
 <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> Ayrıca, takım çalışması ve iletişim becerilerim sayesinde projelerdeki işbirliğini destekleyebiliyorum </em>
 
-<img align="center" width="300px" src="https://github.com/Zelihaars/Zelihaars/blob/main/File/codegirl2.gif"/>
+<img align="center" width="300px" src="https://github.com/Arslanzeliha/Arslanzeliha/blob/main/File/codegirl2.gif"/>
  <br/>
  
  
@@ -28,7 +28,7 @@
 
 
 
-[![Zelihaars's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zelihaars&show_icons=true&theme=tokyonight)](https://github.com/Zelihaars)
+[![Zelihaars's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arslanzeliha&show_icons=true&theme=tokyonight)](https://github.com/Zelihaars)
 
  
 
