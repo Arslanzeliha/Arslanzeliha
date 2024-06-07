@@ -4,6 +4,7 @@
 
 <img align="center" width="300px" src="https://github.com/Arslanzeliha/Arslanzeliha/blob/main/File/codegirl2.gif"/>
  <br/>
+ 
 ## Hakkımda  :computer: 
 - **Makine Öğrenmesi** 
 	- Python 📘
