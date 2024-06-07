@@ -18,6 +18,7 @@
 
 - **Web Programlama**
 	- HTML, CSS ve Javascript 🍏
+	- .NET 💟
 	- Bootstrap  💛:
   - Php - Laravel  🔴
 
