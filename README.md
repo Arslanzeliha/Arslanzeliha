@@ -7,17 +7,12 @@
  
 ## Hakkımda  :computer: 
 - **Makine Öğrenmesi** 
-	- Python 📘
-	- Java 🔸
-
+	- Python 
 - **Web Programlama**
-	- HTML, CSS ve Javascript 🍏
-	- .NET 💟
-	- Bootstrap  💛:
-  - Php - Laravel  🔴
-
+	- HTML, CSS ve Javascript
+	- .NET 
 - **Mobil Programlama**
-	- Flutter 💙
+	- Flutter 
 	<br/>
   <br/>
 
