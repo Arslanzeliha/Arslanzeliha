@@ -18,7 +18,7 @@
 
 
 
-[![Zelihaars's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arslanzeliha&show_icons=true&theme=tokyonight)](https://github.com/Zelihaars)
+[![Zelihaars's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arslanzeliha&show_icons=true&theme=tokyonight)](https://github.com/Arslanzeliha)
 
  
 
@@ -39,6 +39,6 @@
  </a> 
   <br/>
   <br/>
-  Teşekkürler 😁<br/>
+<br/>
 </p>
 
